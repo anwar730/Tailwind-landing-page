@@ -1,6 +1,7 @@
 # Tailwind-landing-page
  ## By Anwar Ismail
 ## Screenshot
+![Screenshot from 2023-06-20 15-56-15](https://github.com/anwar730/Tailwind-landing-page/assets/107399297/e3ed6ce7-b38d-4613-8829-fd191df2c679)
 
 
 
